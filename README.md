@@ -88,4 +88,4 @@ Early prototype built for a Nucleate Activator application. Not a medical device
 
 ## Contact
 
-Hannah, MedEpoxy co-founder
+Hannah, MedEpoxy founder
