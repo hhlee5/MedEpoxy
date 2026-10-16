@@ -1,6 +1,9 @@
 # MedEpoxy
 **Synthetic data only. Do not enter real patient information.**
 
+## Live Demo
+https://hhlee5.github.io/MedEpoxy/
+
 ## Concept
 
 - AI-powered treatment coordination between care team members in the clinic, with humans in the loop.
